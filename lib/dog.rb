@@ -7,4 +7,4 @@ class Dog
   end
   fido.name = "Fido"
   puts fido.name
-def init
+end
