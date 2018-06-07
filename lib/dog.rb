@@ -5,6 +5,4 @@ class Dog
   def name=(name)
     @name = name
   end
-  fido.name = "Fido"
-  puts fido.name
 end
